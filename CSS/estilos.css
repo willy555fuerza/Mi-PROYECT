@@ -68,3 +68,24 @@ p{
     margin: auto;
 }
 
+
+
+.rest   
+{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    margin: auto;
+}
+
+
+
+.col-md-3
+{
+    height: 45px;
+}
+
+h2
+{
+    text-align: center;
+}
